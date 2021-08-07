@@ -42,7 +42,7 @@ export default function App() {
               </Link>
               <span className="mx-2 font-black text-xl text-yellow-300">·</span>
               <span className="font-medium text-lg text-indigo-200">
-                A simsle link shortener.
+                A simple url shortener.
               </span>
               <IconMenu2
                 onClick={() => setIsMenuOpen((prev) => !prev)}
